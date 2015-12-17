@@ -6,12 +6,12 @@ using System.Runtime.InteropServices;
 // 控制。更改这些特性值可修改
 // 与程序集关联的信息。
 [assembly: AssemblyTitle("PicLottery")]
-[assembly: AssemblyDescription("")]
+[assembly: AssemblyDescription("PicLottery")]
 [assembly: AssemblyConfiguration("")]
-[assembly: AssemblyCompany("")]
+[assembly: AssemblyCompany("devchen.com")]
 [assembly: AssemblyProduct("PicLottery")]
-[assembly: AssemblyCopyright("Copyright ©  2015")]
-[assembly: AssemblyTrademark("")]
+[assembly: AssemblyCopyright("Copyright ©  2015 Sykie Chen")]
+[assembly: AssemblyTrademark("Sykie Chen")]
 [assembly: AssemblyCulture("")]
 
 //将 ComVisible 设置为 false 将使此程序集中的类型
